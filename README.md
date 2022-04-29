@@ -1,1 +1,2 @@
-# refugeecode
+# refugeecod
+This is my personal project
